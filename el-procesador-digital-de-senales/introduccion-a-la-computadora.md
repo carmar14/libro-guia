@@ -37,6 +37,7 @@ En el diagrama de la Figura 1 se considera que los puertos de interconexión hac
 
 * Periférico. Es cualquier dispositivo que le permite al microprocesador mantener, o establecer, una comunicación directa con el contexto de la aplicación. Por ejemplo: interruptores, teclados, lámparas de 7 segmentos y otros visualizadores alfanuméricos, etc. Por cuanto la razón de ser de las computadoras es procesar información, no tienen sentido considerar una computadora sin periféricos de entrada, que permitan el ingreso de información a procesar, o periféricos de salida, a través de los cuales se suministran los resultados del procesamiento. 
 
+PROBANDO CAMBIOS
 
 
 
